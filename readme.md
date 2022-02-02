@@ -1,5 +1,5 @@
 # HI
-£smth
+# smth
 
 2nd branch
 
